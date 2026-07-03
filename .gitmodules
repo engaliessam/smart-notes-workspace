@@ -1,0 +1,6 @@
+[submodule "smart-notes-api"]
+	path = smart-notes-api
+	url = https://github.com/engaliessam/smart_notes_backend.git
+[submodule "smart-notes-web"]
+	path = smart-notes-web
+	url = https://github.com/engaliessam/smart_notes_frontend.git
