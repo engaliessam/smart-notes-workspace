@@ -12,7 +12,7 @@ A premium, full-stack note-taking application — final project for the **ITI Fu
 
 ## 📽️ Demo
 
-https://github.com/your-username/smart-notes/assets/your-id/Project%20Demo.mp4
+[https://github.com/your-username/smart-notes/assets/your-id/Project%20Demo.mp4](https://github.com/engaliessam/smart-notes-workspace/blob/main/Project%20Demo.mp4)
 
 ---
 
